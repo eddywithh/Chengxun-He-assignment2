@@ -7,7 +7,7 @@ function Credits(){
         <div className="credits-container">
             <h1 className="title-credits">Credits:</h1>
             <h2> Game of Life made by Chengxun He & Samantha Ranjo</h2>
-            <p> <button><a href="https://github.com"> Github repository link ʕ •ᴥ•ʔ </a></button></p>
+            <p> <button><a href="https://github.com/eddywithh/Chengxun-He-assignment2"> Github repository link ʕ •ᴥ•ʔ </a></button></p>
         </div>
         </>
     );
